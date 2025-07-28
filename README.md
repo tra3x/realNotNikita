@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @realNotNikita
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Discord Bots & Websites
+- 💞️ I’m looking to collaborate on learning new stuff
 - 📫 How to reach me Email: nikitagrislis@icloud.com
 
 <!---
